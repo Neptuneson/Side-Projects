@@ -1,3 +1,4 @@
+package JAVA.Collatz;
 public class Main {
   private static final int RUNS = 1000;
   public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package JAVA.Spread;
 import java.awt.*;
 
 public class Virus {

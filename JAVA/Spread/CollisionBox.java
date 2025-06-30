@@ -1,3 +1,4 @@
+package JAVA.Spread;
 import java.awt.*;
 /**
  * A rectangular container box, containing the bouncing ball.  

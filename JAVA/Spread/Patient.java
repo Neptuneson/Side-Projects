@@ -1,3 +1,4 @@
+package JAVA.Spread;
 import java.awt.*;
 import java.util.Formatter;
 import java.util.HashSet;
@@ -14,7 +15,6 @@ public class Patient {
   private Virus curVirus;
   boolean infected;
   float iRadius;
-  private static final Color DEFAULT_COLOR = Color.BLUE;
   private Set<Integer> viruses;
 
   /**
